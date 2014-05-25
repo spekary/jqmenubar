@@ -1,0 +1,16 @@
+{
+    "name": "qcubed/plugin/jqmenubar",
+    "description": "A drop-down menu bar based on an alpha JQuery UI menu bar.",
+    "type": "library",
+    "keywords": ["qcubed", "jqmenubar"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-0": { "": "includes/" }
+    },
+    "extra": {
+        "examples": ["jqmenubar.php"]
+    }
+}
